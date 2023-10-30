@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+19m Comp Sci major
+- 🔭 I’m currently working on learning all about programming!
+- 🌱 I’m currently learning CIS 023 at Solano Community College
+- 📫 How to reach me: erdsmabilog@gmail.com
+- 😄 Pronouns: He/Him
