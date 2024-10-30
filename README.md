@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-19m Computer Science major
+20m Computer Science major
 - 🔭 I’m currently working on learning all about programming!
 - 🌱 I’m currently learning CSC 60, 130, and 131 at CSU Sacramento
 - 📫 How to reach me: erdsmabilog@gmail.com
