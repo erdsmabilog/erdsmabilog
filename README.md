@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 20m Computer Science major
-- 🔭 I’m currently working on learning all about programming although my eventual goal is to get into Cybersecurity!
-- 🌱 I’m currently learning CSC 134, 135, 137, and 138 at CSU Sacramento
+- 🔭 I’m currently working on learning all about programming, although my eventual goal is to get into Cybersecurity!
+- 🌱 I’m currently learning CSC 139, 140, 190, and 193A at CSU Sacramento
 - 📫 How to reach me: erdsmabilog@gmail.com
 - 😄 Pronouns: He/Him
