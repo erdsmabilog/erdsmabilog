@@ -1,6 +1,6 @@
 ## Anatomical Directional Terminology
 ![Screenshot 2025-09-07 at 12.58.53 AM.png](:/2492f8a00cb449b6bade39a91cfe2b71)
-![hand-darts-throwing-clip-art-hand-drawn-lines-throwing-darts-be753170df04d0a977a74cfcfaa36de9.png](:/07ac2d7a230a45d2b5f959f382c4f581.png)
+![hand-darts-throwing-clip-art-hand-drawn-lines-throwing-darts-be753170df04d0a977a74cfcfaa36de9.png](https://github.com/erdsmabilog/erdsmabilog/blob/main/07ac2d7a230a45d2b5f959f382c4f581.png)
 | Direction  | Desciption |
 | ------------- | ------------- |
 | Anterior  | in front or in the front part  |
